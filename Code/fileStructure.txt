@@ -1,0 +1,17 @@
+expt_name/
+	[allSeries_allOrganoids.avi]
+	[allSeries_allOrganoids_clean.avi]
+	series/
+		[seriesXX_allOrganoids.avi]
+		[seriesXX_allOrganoids_clean.avi]
+		...
+		organoid/
+			[seriesXX_organoidX.avi]
+			[seriesXX_organoidX_clean.avi]
+			...
+			noGrid/
+				[seriesXX_organoidX.avi]
+				[seriesXX_organoidX_clean.avi]
+				.....
+
+
